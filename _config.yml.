@@ -1,1 +1,6 @@
-theme: Dinky
+title: My Awesome Site
+description: >- 
+  A blog built with Jekyll and hosted on GitHub Pages.
+baseurl: "" # leave this empty unless your site is hosted in a subdirectory
+url: "https://JohnGrey17.github.io" # replace with your GitHub Pages URL
+theme: minima 
